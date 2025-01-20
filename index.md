@@ -10,3 +10,8 @@ Here's a nice photo of somewhere SNOWY
 
 [!WARNING]
 When snowy, some paths on this route become icy and dangerous!
+
+Days of the week:
+1. Monday
+2. Tuesday
+3. Wednesday
