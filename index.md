@@ -5,4 +5,4 @@ This is a list of things I have to do:
 - Buy plaster
 - Order skip
 
-Here's a nice photo of somewhere <SNOWY>
+Here's a nice photo of somewhere SNOWY
